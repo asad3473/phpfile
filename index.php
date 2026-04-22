@@ -9,7 +9,7 @@
 
 <body>
 
-   <?php include './commonpages/nav.php'; ?>
+   <?php include './nav.php'; ?>
 
     <div class="container">
         <h1>Welcome to My Website</h1>

@@ -1,4 +1,4 @@
-<?php include './commonpages/nav.php'; ?>
+<?php include './nav.php'; ?>
 
 <!DOCTYPE html>
 <html>
@@ -28,6 +28,6 @@
     </div>
   </div>
 </div>
-<?php include './commonpages/footer.php'; ?>
+<?php include './footer.php'; ?>
 </body>
 </html>

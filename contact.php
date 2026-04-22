@@ -1,4 +1,4 @@
-<?php include './commonpages/nav.php'; ?>
+<?php include './nav.php'; ?>
 
 <!DOCTYPE html>
 <html>
@@ -18,6 +18,6 @@
     <button type="submit">Send Message</button>
   </form>
 </div>
-<?php include './commonpages/footer.php'; ?>
+<?php include './footer.php'; ?>
 </body>
 </html>
