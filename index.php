@@ -16,7 +16,7 @@
         <p>This is the landing page.</p>
     </div>
 
-    <?php include './commonpages/footer.php'; ?>
+    <?php include './footer.php'; ?>
 </body>
 
 </html>
